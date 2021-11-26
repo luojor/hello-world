@@ -33,6 +33,9 @@ void copy(char* dest, char* src)
 	printf("%s\n", dest);
 }
 
+/**
+远程edit
+**/
 
 
 int main()
