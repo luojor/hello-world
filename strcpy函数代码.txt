@@ -19,6 +19,7 @@ int length(char* p)
 
 }
 
+
 void copy(char* dest, char* src)
 {
 	int i, j = 0;
